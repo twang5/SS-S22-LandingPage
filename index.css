@@ -86,28 +86,28 @@ body {
 }
 
 .image-header {
-  background: url(images/header.svg);
+  background: url(images/body_text.svg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .image-connect {
-  background: url(images/connect.svg);
+  background: url(images/online_chat.svg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .image-portfolio {
-  background: url(images/portfolio.svg);
+  background: url(images/check_boxes.svg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
 }
 
 .image-explore {
-  background: url(images/explore.svg);
+  background: url(images/browsing.svg);
   background-size: contain;
   background-repeat: no-repeat;
   background-position: center;
